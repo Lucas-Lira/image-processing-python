@@ -1,0 +1,1 @@
+# processando_imagens_treino
